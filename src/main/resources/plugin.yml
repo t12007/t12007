@@ -1,0 +1,7 @@
+name: MinecraftTest
+version: '${project.version}'
+main: minecrafttest.minecrafttest.MinecraftTest
+api-version: 1.18
+
+commands:
+  super:
